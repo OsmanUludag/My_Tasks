@@ -18,6 +18,7 @@ public class Question1 {
      */
 
     public static void main(String[] args) {
+        // Burada degerleri kullanicidan alip methodu test ediyoruz!
         Scanner input = new Scanner(System.in);
         System.out.println("Lütfen bir ifade giriniz");
         String str = input.nextLine();
